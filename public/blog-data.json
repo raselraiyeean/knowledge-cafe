@@ -1,0 +1,46 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co.com/cQjR8wQ/1.jpg",
+      "title": "The Mystery of the Lost City",
+      "author": "John Doe",
+      "author_image": "https://i.ibb.co.com/SQY2JkM/boy1.png",
+      "posted_date": "2024-01-15",
+      "reading_time": "12 min",
+      "hashtag": ["#mystery", "#adventure", "#fiction"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co.com/M7c5JLr/2.png",
+      "title": "Gardening Secrets for Beginners",
+      "author": "Jane Smith",
+      "author_image": "https://i.ibb.co.com/9q09Zjv/boy2.jpg",
+      "posted_date": "2023-11-23",
+      "reading_time": "8 min",
+      "hashtag": ["#gardening", "#nature", "#tips"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co.com/vkwK6YZ/3.png",
+      "title": "Exploring Space: A Journey Beyond",
+      "author": "Emily Clark",
+      "author_image": "https://i.ibb.co.com/mB2021h/girl1.jpg",
+      "posted_date": "2024-05-05",
+      "reading_time": "15 min",
+      "hashtag": ["#space", "#science", "#exploration"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co.com/RQbVLwB/4.jpg",
+      "title": "Mastering the Art of French Cooking",
+      "author": "Pierre Laurent",
+      "author_image": "https://i.ibb.co.com/BCWQqYk/girl2.jpg",
+      "posted_date": "2023-08-10",
+      "reading_time": "10 min",
+      "hashtag": ["#cooking", "#frenchcuisine", "#recipes"]
+    }
+    
+  ]
+  
+
+
